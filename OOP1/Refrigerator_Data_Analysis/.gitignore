@@ -1,0 +1,10 @@
+# Visual Studio directories
+.vs/
+bin/
+obj/
+user/
+.env
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
