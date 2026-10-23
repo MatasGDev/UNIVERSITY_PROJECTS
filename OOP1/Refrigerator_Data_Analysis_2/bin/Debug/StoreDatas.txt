@@ -1,0 +1,18 @@
+﻿STORE 1: Topo Centras,Vilniaus g. 10, Vilnius,+37060011223
++---------------+------------+----------+--------+----------------+----------+---------+------------+----------+----------+----------+
+| Manufacturer  | Model      | Capacity | Energy | Installation   | Color    | Feature | Price      | Height   | Width    | Depth    |
+| Samsung       | RB34T670ESA |      340 | A++    | Freestanding   | Silver   | True    |     649.99 |      185 |       60 |       65 |
+| LG            | GBB72MCDFN |      384 | A++    | Built-in       | Black    | True    |     799.00 |      203 |     59.5 |     67.5 |
+| Siemens       | KG39NXI35  |      366 | A+     | Freestanding   | White    | False   |     679.99 |      201 |       60 |       66 |
+| Electrolux    | EN3600MOX  |      350 | A+     | Freestanding   | Silver   | True    |     710.00 |      188 |       63 |       68 |
+| Haier         | HRF-628IF6 |      320 | A++    | Freestanding   | White    | False   |     599.00 |      180 |       59 |       64 |
++---------------+------------+----------+--------+----------------+----------+---------+------------+----------+----------+----------+
+STORE 2: Elektromarkt,Kauno g. 25, Kaunas,+37061133445
++---------------+------------+----------+--------+----------------+----------+---------+------------+----------+----------+----------+
+| Manufacturer  | Model      | Capacity | Energy | Installation   | Color    | Feature | Price      | Height   | Width    | Depth    |
+| Bosch         | KGV36NW3A  |      317 | A+     | Freestanding   | White    | False   |     589.50 |      186 |       60 |       65 |
+| Whirlpool     | W7X82OOX   |      367 | A++    | Built-in       | Stainless Steel | True    |     770.00 |      202 |     59.5 |       67 |
+| Siemens       | RCNA366E40ZXBR |      355 | A+     | Freestanding   | Grey     | True    |     645.50 |      192 |       60 |       66 |
+| Sharp         | SJ-BA31IHXW0 |      330 | A+     | Freestanding   | Black    | False   |     610.00 |      185 |       61 |       65 |
+| Panasonic     | NR-BN34AS2 |      340 | A++    | Freestanding   | White    | True    |     730.00 |      190 |       62 |       67 |
++---------------+------------+----------+--------+----------------+----------+---------+------------+----------+----------+----------+

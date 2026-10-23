@@ -1,0 +1,4 @@
+Avitela;Taikos pr. 88, Klaipėda;+37067891234
+Bosch;KGN49XLEA;505;A+;Freestanding;Grey;true;1200.00;203;70;67
+Siemens;KG39NXI35;366;A+;Freestanding;White;false;890.00;201;60;66
+Samsung;RS68N8941SL;593;A++;Freestanding;Silver;true;1200.00;178;91;72

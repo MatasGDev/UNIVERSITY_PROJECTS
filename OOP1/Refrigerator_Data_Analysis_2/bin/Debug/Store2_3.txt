@@ -1,0 +1,3 @@
+Elektromarkt;Savanorių pr. 15, Kaunas;+37061111111
+Sharp;SJ-TB01;70;A+;Freestanding;Silver;false;400.00;130;54;55
+Whirlpool;W7X82OOX;79;A++;Built-in;Stainless Steel;true;500.00;135;56;60

@@ -1,0 +1,4 @@
+Senukai;Savanorių pr. 123, Vilnius;+37061234567
+Samsung;RF56N9740SR;500;A++;Freestanding;Silver;true;1200.00;180;90;70
+LG;GSL761PZXV;600;A++;Freestanding;Black;true;1200.00;179;91;71
+Electrolux;EAL6140WOU;540;A+;Freestanding;White;false;1100.00;181;89;69

@@ -1,0 +1,6 @@
+Topo Centras;Vilniaus g. 10, Vilnius;+37060011223
+Samsung;RB34T670ESA;340;A++;Freestanding;Silver;true;649.99;185;60;65
+LG;GBB72MCDFN;384;A++;Built-in;Black;true;799.00;203;59.5;67.5
+Siemens;KG39NXI35;366;A+;Freestanding;White;false;679.99;201;60;66
+Electrolux;EN3600MOX;350;A+;Freestanding;Silver;true;710.00;188;63;68
+Haier;HRF-628IF6;320;A++;Freestanding;White;false;599.00;180;59;64

@@ -1,0 +1,4 @@
+Topo Centras;Gedimino pr. 9, Vilnius;+37060000000
+Snaige;RF27SM-T;75;A;Freestanding;White;false;300.00;120;50;55
+Snaige;RF30SM-T;79;A+;Freestanding;White;false;320.00;125;50;55
+Whirlpool;W55VM;60;A;Freestanding;White;false;250.00;85;48;50
